@@ -1,0 +1,1 @@
+DevBlog é um site fictício criado para simular um blog moderno e funcional focado em conteúdo para desenvolvedores. O site serve como um espaço para artigos sobre programação, frameworks, boas práticas, ferramentas, tutoriais e reflexões sobre a carreira tech.
